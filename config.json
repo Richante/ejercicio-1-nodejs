@@ -1,0 +1,7 @@
+{
+  "intervalo_segundos": 5,
+  "mostrar_cpu": true,
+  "mostrar_memoria": true,
+  "mostrar_uptime_sistema": true,
+  "mostrar_uptime_node": true
+}
