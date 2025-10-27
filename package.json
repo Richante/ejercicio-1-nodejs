@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio-1-nodejs",
+  "version": "1.0.0",
+  "description": "Servidor Node.js que muestra información del sistema",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "sistema", "monitoreo"],
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
